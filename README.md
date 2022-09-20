@@ -1,16 +1,23 @@
-### Hi there 👋
+**Hello 👋** I'm Andres Alvarez
 
-<!--
-**alvaresandres/alvaresandres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges">
+  <img src="https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins&logoColor=black" alt="Jenkins Badge"/>
+  <img src="https://img.shields.io/badge/Octopus Deploy-blue?style=for-the-badge&logo=octopusdeploy&logoColor=white" alt="Octo Badge"/>
+  <img src="https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible Badge"/>
+  <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white" alt="git Badge"/>
+  <img src="https://img.shields.io/badge/GitLab-purple?style=for-the-badge&logo=gitlab&logoColor=white" alt="ansible Badge"/>
+  <img src="https://img.shields.io/badge/Azure DevOps-blue?style=for-the-badge&logo=azuredevops&logoColor=white" alt="ansible Badge"/>
+  <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="ansible Badge"/>
+  <img src="https://img.shields.io/badge/jquery-blue?style=for-the-badge&logo=jquery&logoColor=white" alt="ansible Badge"/>
+</div>
 
-Here are some ideas to get you started:
+**Learning about**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges">
+  <img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black" alt="Jenkins Badge"/>
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=lightblue" alt="Octo Badge"/>
+</div>
+
+I'm a Biker
+![image](https://i.gifer.com/origin/26/26b24b378a26ec3958e02d6f37927a8e_w200.gif)
+17
