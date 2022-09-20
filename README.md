@@ -18,6 +18,6 @@
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=lightblue" alt="Octo Badge"/>
 </div>
 
-I'm a Biker
-![image](https://i.gifer.com/origin/26/26b24b378a26ec3958e02d6f37927a8e_w200.gif)
-17
+I love the bikes
+![image](https://i.pinimg.com/originals/ba/b3/88/bab388d7cc51981cf83be0a9ef94078e.gif)
+
