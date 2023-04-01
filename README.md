@@ -14,7 +14,7 @@ Welcome to my Space
 
 **Actually I learning about**
 
-<img src="https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r&logoColor=white" alt="Jenkins Badge"/> <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=yellow" alt="Jenkins Badge"/>
+<img src="https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r&logoColor=white" alt="Jenkins Badge"/>
 
 **I Love Motorbike**
 
