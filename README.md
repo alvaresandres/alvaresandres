@@ -19,6 +19,6 @@ Welcome to my Space
 **I Love Motorbike**
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/22/94/62/2294623e26b0d9dc73e8d7612792b819.gif" style="with: 50"/>
+  <!--<img src="https://i.pinimg.com/originals/22/94/62/2294623e26b0d9dc73e8d7612792b819.gif" style="with: 50"/>-->
 </p>
 
