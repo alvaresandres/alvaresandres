@@ -1,12 +1,11 @@
 <!--<img src="https://parispeaceforum.org/wp-content/uploads/2021/10/NET-ZERO-SPACE-INITIATIVE-1.png" width="100%">-->
-<img src="https://thumbs.gfycat.com/HomelyDesertedEnglishsetter-size_restricted.gif" >
+<img src="https://thumbs.gfycat.com/HomelyDesertedEnglishsetter-size_restricted.gif" width="100%">
 
 <h2 align="center">
-Hi, I'm Andres Alvarez! 
+Hi, I'm Jockssan Alvarez! 
 <a href="https://github.com/alvaresandres/" target="_self">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</a> | 
-Welcome to my Space
+</a>
 </h2>
 
 | Dev | Ops |
